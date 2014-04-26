@@ -20,7 +20,7 @@ We will be sending messages from the Ardino to Processing in text. Whenever you 
 # Code Steps
 * Save the "Many Ways to Blink 5" code as "Many Ways to Blink 5"
 * NOTE: The full code is at the end this tutorial
-* You can see all the changes to the code <a href="">here</a>
+* You can see all the changes to the code <a href="https://github.com/workshopweekend/many-ways-to-blink-5/raw/master/many-ways-to-blink-5.pdf">here</a>
 * We no longer have the servo in the circuit so remove the lines
 
 	
@@ -51,7 +51,7 @@ We will be sending messages from the Ardino to Processing in text. Whenever you 
     delay(delayTime);                  
 
 * Upload the code to the Arduino 
-* Download Computer Blink.pde from <a href="">here</a>
+* Download Computer Blink.pde from <a href="https://github.com/workshopweekend/many-ways-to-blink-5/raw/master/Computer_Blink.zip">here</a>
 * Unzip it
 * Open Computer Blink.pde with Processing
 * Run Computer Blink
